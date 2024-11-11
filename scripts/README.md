@@ -1,12 +1,5 @@
 ## Consolidate PDFs and whatever extension you might need
 
-### Step-by-Step Instructions:
-
-1. Create a file named `consolidate_pdfs.sh` in your GitHub repository.
-2. Copy the code below into the `consolidate_pdfs.sh` file.
-3. Make the script executable.
-4. Run it from your terminal with the source and target directories as arguments.
-
 ### Explanation:
 
 1. **Cross-Platform Compatibility**:
